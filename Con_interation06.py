@@ -1,6 +1,6 @@
 '''
     ds5020 Linear algebra
-    andrew consilvio
+    andrew c*
     final project - iteration 06
 '''
 # Import all the tools we need
